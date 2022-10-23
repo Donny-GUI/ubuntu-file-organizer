@@ -16,7 +16,9 @@ python3 setup.py
 ```bash
 cleaner all
 cleaner pics
-cleaner docs
-cleaner all but pics
+cleaner pictures
+cleaner all but pictures
+cleaner log
+cleaner delete logs
 
 ```
